@@ -1,0 +1,29 @@
+.git
+.gitignore
+.gitattributes
+
+# Java / Maven
+target/
+*.iml
+.idea/
+.vscode/
+
+# Node / Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Local secrets and configs
+src/main/resources/application-local.properties
+.env
+.env.*
+
+# Docs / project planning artifacts (not needed in the image)
+docs/
+*.pdf
+HELP.md
+README.md
+
+# OS junk
+.DS_Store
+Thumbs.db

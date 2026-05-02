@@ -1,0 +1,10 @@
+.post-list li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.post-list li a {
+  margin-right: 0.25rem;
+}

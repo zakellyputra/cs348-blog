@@ -1,0 +1,23 @@
+.post-body {
+  white-space: pre-wrap;
+  margin: 1.5rem 0;
+  line-height: 1.7;
+}
+
+.post-actions {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.post-actions a {
+  margin-right: 1.5rem;
+}
+
+.danger-link {
+  color: #FF6B6B;
+  cursor: pointer;
+}
+
+.danger-link:hover {
+  color: #fff;
+}
